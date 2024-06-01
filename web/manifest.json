@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "weather_flutter",
     "short_name": "weather_flutter",
+=======
+    "name": "weater_app",
+    "short_name": "weater_app",
+>>>>>>> 473d3f3 (first commit)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
