@@ -9,7 +9,7 @@ Added Feature:
 2. Added Darkmode\Lightmode - Dependent on default phone setting
 
 ## Working Images
-
+<img src='lib/images/w2.png' width="150"/> <img src='lib/images/w1.png' width="150"/>
 ## Getting Started
 
 You can clone this repository and run the main.dart file in any emulator to see the app working
