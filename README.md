@@ -1,18 +1,19 @@
 =======
 # weather_flutter
 
-A new Flutter project.
+My minimalistic weather app based on flutter  
+API Consumed: openweathermap  
+  
+Added Feature:  
+1. Lotti Animations - to depict the current weather in a fun way  
+2. Added Darkmode\Lightmode - Dependent on default phone setting
+
+## Working Images
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can clone this repository and run the main.dart file in any emulator to see the app working
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> c529f5d (first commit)
+## Prior Setting
+Location: Keep in mind the application will use the custom location set by the emulator  
+Darkmode\lightmode: This too is dependend on the setting of the emualtor
