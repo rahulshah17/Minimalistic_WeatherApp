@@ -1,5 +1,18 @@
-# WeatherApp_Flutter
-A Weather App based on flutter. 
-I have used openweathermap's API to read the weather data, Used Lottie animations, and also enabling the app to work on light mode and dark mode settings
-![w1](https://github.com/rahulshah17/WeatherApp_Flutter/assets/42064720/64e06f90-2e19-451e-8a78-828ff7133a5e)
-![w2](https://github.com/rahulshah17/WeatherApp_Flutter/assets/42064720/a00eb1e3-7215-4a09-9bd3-0ee92a60ae8e)
+=======
+# weather_flutter
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> c529f5d (first commit)
