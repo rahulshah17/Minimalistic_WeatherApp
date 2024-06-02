@@ -1,5 +1,4 @@
-=======
-# weather_flutter
+# Minimalistic_WeatherApp
 
 My minimalistic weather app based on flutter  
 API Consumed: openweathermap  
